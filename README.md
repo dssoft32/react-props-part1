@@ -19,9 +19,10 @@ Requirements
 > - Now hit the link http://localhost:3000 on browser.
 > - Whenever you save any file after changes(in development mode), it will automatically restart the server and reload the browser as because we are running the server with hot deployment.
 
-**Topics to be covered :- **
+> **Topics to be covered :- **
 
 > - Passing a prop by giving an attribute to a component instance
 > - Accessing a passed-in prop via this.props.prop-name
 > - Displaying a prop
-> - Using a prop to make decisions about what to display
+> - Pass props from Component to Component
+> - Render Different UI based on props
